@@ -40,5 +40,8 @@ I love AI and want to learn how it works because it amazes me how many things it
 |------|--------|------|------|
 | 2026-10-01 | 00/01 Dev Environment | 3/3 | Created and verified Windows Python 3.12 virtual environment; PyTorch installation deferred. |
 | 2026-10-01 | 00/02 Git & Collaboration | 3/3 | Created, committed, and pushed the learning plan on the my-progress branch. |
+| 2026-10-02 | 00/03 GPU Setup & Cloud | 3/3 | Local Intel graphics means CPU work locally; review VRAM capacity and GPU timing. |
+| 2026-10-02 | 00/04 APIs & Keys | 3/3 | Learned safe key storage, request parts, and rate-limit handling; no API key configured yet. |
 
 ## Review queue
+- 00/03 GPU Setup & Cloud — revisit VRAM capacity and asynchronous GPU timing.
